@@ -33,4 +33,4 @@ volumes:
   sonar_conf:
   sonar_data:
   sonar_logs:
-  sonar_extensions:S
+  sonar_extensions:
