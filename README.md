@@ -1,1 +1,1 @@
-# jenkins-sonarqube-on-docker
+Dockerfile to Setup Jenkins with SonarQube
